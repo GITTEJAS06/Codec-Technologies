@@ -95,11 +95,4 @@ It identifies inefficiencies, evaluates costs, and suggests strategies to improv
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]  
-Open for use, modification, and contributions.  
-
-
-
-## 📄 License
-
 MIT License © 2025 Open for use, modification, and contributions.  
